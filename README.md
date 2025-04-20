@@ -1,3 +1,5 @@
+Check out the interactive dashboard [here]([https://your-dashboard-link.com](https://web-chat.global.assistant.watson.appdomain.cloud/preview.html?backgroundImageURL=https%3A%2F%2Fau-syd.assistant.watson.cloud.ibm.com%2Fpublic%2Fimages%2Fupx-73ea27ea-633a-41a7-a617-b681a7293dcd%3A%3A0344fd36-6663-4470-8707-83b249f186a1&integrationID=0b2ffeee-c52f-4298-a5ec-e5509c695336&region=au-syd&serviceInstanceID=73ea27ea-633a-41a7-a617-b681a7293dcd))
+
 # Singapore Tourism Chatbot 🌏
 ### This repository contains the Singapore Tourism Chatbot, designed to make your travel planning experience easier. The bot provides detailed information about Singapore, including travel itineraries, visa details, hotel bookings, and much more. It’s your one-stop solution for planning a trip to Singapore!
 
